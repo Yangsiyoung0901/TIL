@@ -15,3 +15,9 @@ Git에서 제공하는 소스코드 관리 소프트웨어의 서비스 범위�
 ## Sourcetree
 
 ## Visual Studio Code
+
+
+
+## Clone
+
+Git remote repo는 다운로드가 아니라 clone을 써야 한다.
