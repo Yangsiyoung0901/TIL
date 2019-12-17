@@ -17,7 +17,7 @@ Clone은 생성 즉시 Remote와 연결된다.
 
 
 
-## Local / Remote / Clone 활용
+## Push & Pull
 
 ### Local - Remote
 
